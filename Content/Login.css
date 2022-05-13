@@ -1,0 +1,33 @@
+﻿
+body, html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:23px
+}
+
+#formLogin{
+    width:50%;
+    margin: 100px auto;
+    border: 2px groove gray;
+    box-shadow: gray 10px 10px 20px 10px ;
+    padding-bottom:35px
+}
+
+#imgLogin {
+    content: url('/Imagenes/bio2.jpg');
+    width:40%;
+    margin:auto;
+}
+
+table{
+    margin:auto;
+}
+
+#btnIngresar{
+    background-color:darkslategray;
+    margin-top:10px;
+    border:none;
+    color:white;
+    padding:10px 25px;
+    font-size:20px;
+    
+}
